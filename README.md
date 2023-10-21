@@ -3,11 +3,11 @@ Dragon UnPACKer v5.7.0 Beta
 Dragon UnPACKer v5.7.0 Бета-версия MPL 1.1 с открытым исходным
 кодом от Alexande "Elbereth" Devilliers 04.08.2014
 ===============================================================================
+![Dragon UnPACKer v5.7.0 Beta Dragon UnPACKer](https://github.com/moneyrobot2023/drgunpack5/blob/main/1.jpg?raw=true)
+
+![Dragon UnPACKer v5.7.0 Beta Dragon UnPACKer](https://github.com/moneyrobot2023/drgunpack5/blob/main/2.jpg?raw=true)
 
 
-![Dragon UnPACKer v5.7.0 Beta Dragon UnPACKer](https://skrinshoter.ru/s/211023/1gCZ5hDI.jpg)
-
-![Dragon UnPACKer v5.7.0 Beta Dragon UnPACKer](https://skrinshoter.ru/s/211023/bA9neYKR.jpg)
 
   ** ПРИМЕЧАНИЕ: Это незавершенная сборка (Альфа, бета-версия или релиз-кандидат),
 используйте ее на свой страх и риск. Может быть нестабильным. Вас предупреждали! **
